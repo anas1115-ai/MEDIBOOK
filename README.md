@@ -9,22 +9,7 @@ Full-stack doctor appointment booking demo using HTML, CSS, JavaScript, Node.js,
 ## 2. Database
 Open MySQL Workbench and run `database/medibook.sql`.
 
-## 3. Backend
-Open terminal in `backend`:
 
-```bash
-npm install
-```
-
-Copy `.env.example` to `.env` and put your MySQL password in `DB_PASSWORD`.
-
-Then:
-
-```bash
-npm start
-```
-
-Backend/frontend: http://localhost:5000
 
 ## 4. Use the app
 Open http://localhost:5000 in Chrome. Search a doctor, book an appointment, then enter the same patient name in My Appointments and click View.
